@@ -1,6 +1,6 @@
 # non-DDNS DDNS
 
-Dynamic DNS is useful & popular. It allows one to maintain a human comprehendible name that maps to your home IP address. (Most ISP’s provide DCHP which means your home’s IP address can change without notice.) Dynamic DNS maintains a mapping for you.
+Dynamic DNS is useful & popular. It allows one to maintain a human comprehendible name that maps to your home IP address. (Most ISP’s provide DHCP which means your home’s IP address can change without notice.) Dynamic DNS maintains a mapping for you.
 
 There are several companies that provide free DDNS (Dynamic DNS) services. These are pretty easy to use and the cost is often completely free of charge.
 
